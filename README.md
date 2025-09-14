@@ -5,11 +5,10 @@
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
   # Hi there 👋, I'm **Eslam Alhamarsheh**  
-  🎯 **Data Analyst | BI Developer | SQL Expert**  
+  🎯 **Data Analyst | BI Developer**  
 
   [![Linkedin Badge](https://img.shields.io/badge/-EslamAlhamarsheh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/) 
   [![Gmail Badge](https://img.shields.io/badge/-eslamalhamarsheh-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:youremail@gmail.com) 
-  [![GitHub followers](https://img.shields.io/github/followers/eslamalhamarsheh?label=Follow&style=social)](https://github.com/eslamalhamarsheh)
 
 </div>
 
@@ -25,10 +24,7 @@
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0099cc?style=flat)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 ---
 

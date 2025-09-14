@@ -1,11 +1,15 @@
 <div align="center">
 
-# Hi there 👋, I'm **Eslam Alhamarsheh**  
-🎯 **Data Analyst | BI Developer | SQL Expert**  
+  <h2>Hello Analytics</h2>
+  <h3>I'm Eslam</h3>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-EslamAlhamarsheh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/) 
-[![Gmail Badge](https://img.shields.io/badge/-eslamalhamarsheh-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:youremail@gmail.com) 
-[![GitHub followers](https://img.shields.io/github/followers/eslamalhamarsheh?label=Follow&style=social)](https://github.com/eslamalhamarsheh)
+  # Hi there 👋, I'm **Eslam Alhamarsheh**  
+  🎯 **Data Analyst | BI Developer | SQL Expert**  
+
+  [![Linkedin Badge](https://img.shields.io/badge/-EslamAlhamarsheh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/) 
+  [![Gmail Badge](https://img.shields.io/badge/-eslamalhamarsheh-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:youremail@gmail.com) 
+  [![GitHub followers](https://img.shields.io/github/followers/eslamalhamarsheh?label=Follow&style=social)](https://github.com/eslamalhamarsheh)
 
 </div>
 
@@ -42,4 +46,3 @@
 ✨ _"Data is the new oil, but insights are the fuel."_ ✨  
 
 </div>
-
